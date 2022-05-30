@@ -1,0 +1,18 @@
+  attaque1;1;pyro;1; -10;	3; nom attaquebasique pyro blabla sur ultime pyro
+  attaque1 ;1;toto;2; -20;	3; nom attaquebasique toto blabla sur ultime toto
+  attaque1;1;soso; 3;-30;	3; nom attaquebasique soso blabla sur ultime soso
+  attaque1;1;wiwi; 4; -10;	3; nom attaquebasique wiwi blabla sur ultime wiwi
+  attaque1;1;fifi;5;-10,	3; nom attaquebasique fifi blabla sur ultime fifi
+  attaque1;1;dodo;6; -20;	3; nom attaquebasique dodo blabla sur ultime dodo
+  attaque2;2;pyro;1;-15;	3; nom attaquemoyenne pyro blabla sur ultime pyro
+  attaque2;2;toto;2;-30;	3; nom attaquemoyenne toto blabla sur ultime toto
+  attaque2;2;soso;3; -15;	3; nom attaquemoyenne soso blabla sur ultime soso
+  attaque2;2;wiwi;4; -30;	3; nom attaquemoyenne wiwi blabla sur ultime wiwi
+  attaque2;2;fifi;5; -20;	3; nom attaquemoyenne fifi blabla sur ultime fifi
+  attaque2;2;dodo; 6;-25;	3; nom attaquemoyenne dodo blabla sur ultime dodo
+  ultime;0;pyro;1; -40;	3; nom ultime pyro : expliquation
+  ultime;0;toto;2; -15;	3; nom ultime toto blabla sur ultime pyro
+  ultime;0;soso;3; -50;	3; nom ultime soso : blabla sur ultime pyro
+  ultime;0;wiwi;4;-20;3; nom ultime wiwi blabla sur ultime pyro
+  ultime;0;fifi;5; 50;	3; nom ultime fifi blabla sur ultime fifi
+  ultime;0;dodo;6; -20;	3; nom ultime dodo blabla sur ultime dodo
