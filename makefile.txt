@@ -1,0 +1,8 @@
+/*prog : main.o cyfighters.o
+  gcc -o prog main.o cyfighters.o
+
+main.o : main.c
+  gcc -c main.c -o main.o
+
+cyfighters.o : cyfighters.c
+  gcc -c cyfighters.c -o cyfighters.o */

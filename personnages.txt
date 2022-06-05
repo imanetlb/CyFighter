@@ -1,0 +1,6 @@
+PYRO; 1; 100;Pyro was formerly Lucifer's right hand man, after betraying him he was banished from the underworld
+HYDRA; 2; 100;Hydra is a human who was rescued by mermaids after being thrown overboard by pirates
+ICEMAN; 3; 100;Iceman is part of a family of heroes, he inherited his powers hereditarily
+CRYSTAL; 4; 100;Crystal is one of the phoenix people. After the extermination of her fellows by a human sect, she descended into the world of mortals to take revenge
+FLORA; 5; 100;Flora is a fairy queen who has the ability to control plants
+VYPER; 6; 100;Vyper is one of the most hated people in the world, she wants to prove that her vicious powers can also be used wisely
