@@ -1,6 +1,0 @@
-PYRO"; 1; "histoire de pyro"; 100; 0; NULL; NULL; NULL
-TOTO"; 2; "histoire de toto"; 100; 0; NULL; NULL; NULL
-SOSO"; 3; "histoire de soso"; 100; 0; NULL; NULL; NULL
-WIWI"; 4; "histoire de wiwi"; 100; 0; NULL; NULL; NULL
-FIFI"; 5; "histoire de fifi"; 100; 0; NULL, NULL; NULL
-DODO"; 6; "histoire de dodo"; 100; 0; NULL; NULL; NULL
